@@ -51,12 +51,12 @@ window.onload = () => {
     </div>
   </div>
   <span class="generalInfo">
-    You can print this page (with <a href="javascript:window.print();">Ctrl + P</a>) or take a screenshot!
+    You can print this page (with <a href="javascript:window.print();">Ctrl + P</a>) or take a screenshot.
     <br>
     Then, show this card to those who want to use WiFi!
   </span>
   <span class="sourceCode">
-    View to <a href="https://github.com/MustafaTRK/wifi-qrcard" target="_blank" rel="noopener noreferrer">source code</a>!
+    View <a href="https://github.com/MustafaTRK/wifi-qrcard" target="_blank" rel="noopener noreferrer">the source code</a>!
   </span>`;
 
   root = document.documentElement;
